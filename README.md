@@ -15,7 +15,7 @@
 
   
 <a href="https://github.com/MehmetEminPolat/News-App/blob/master/png2.jpg" target="_blank">
-<img src="https://github.com/MehmetEminPolat/News-App/blob/master/png2.jpg" width="250" marginleft=50 style="max-width:100%;"></a>
+<img src="https://github.com/MehmetEminPolat/News-App/blob/master/png2.jpg" width="250" marginleft=50; style="max-width:100%;"></a>
   
 </p>  
 
